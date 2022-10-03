@@ -1,0 +1,53 @@
+tech docs (online documentation)
+
+- comprehensive 
+
+- quick start manual 
+
+- training manuals 
+
+- release notes 
+
+- ux writing 
+
+===================================
+
+web copies 
+
+- landing pages
+
+- download pages 
+
+- brochures/ phamplets
+
+- factsheets 
+
+- newsletters
+
+- whitepapers 
+
+- blogs 
+
+==========================================
+
+web pages 
+
+- about page/home page/products page/contacts page and more
+
+==========================================
+
+microcopies
+
+- pop up messages 
+
+- tool tip messages (on hover messages) 
+
+- UX screen messages (helpcards always on display) 
+
+- user onboarding messages 
+
+=========================================
+
+meta keywords and descriptions
+
+

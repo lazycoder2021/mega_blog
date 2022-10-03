@@ -1,0 +1,35 @@
+1. tech docs -- user guide, admin (deployment) guide, quick start guide, training manuals, release notes 
+
+
+2. microcontent (in tech writing) -- dialog boxes (prompts), tool tip (hover texts), UI text (especially related to form fields), UX User Guidance, error messages!
+    -- other forms: emailers, newsletters, blurbs, [can include media like video/images/infographics/memes 
+    -- even google snippets is micro-content, coz they pull out the concise answer from the webpages and present it to us 
+
+	i) basically bite-sized text which drives readers to take some action: could be product purchase or sign up 
+        ii) microcontent in tech writing: goal is to provide smooth user experience; in other words, it prevents them for making mistakes while carrying out some action in the app.  
+
+3. web content -- web pages, blogs, (for those who want to know more), home page, product page, landing page, about and contact page 
+
+	home page -- concise, asthetic, minimal with CTA, with a well-organized navigation 
+        product page -- that help in consumer (who is probably in evaluation stage) decision making 
+	blog page -- to connect with users, respond to their queries, and receive their feedback
+	landing page -- page you land on from search engine results, not the home page, but rather a specific page which matches the user's  
+	search results 
+		- should contain a clear header and description 
+		- call to action 
+	        page should be laid out such that its leads to user conversion 
+	about us page -- bit about your company (who you are), mission statement(what you stand for), those involved in founding the company
+	contact page -- most important page, should contain a clean form, along with your company's details 	
+
+
+4. web copy -- brochures, factsheets, download pages, campaign-specific pages (ex: christmas specific offer), white paper, email newsletters
+
+5. writing related seo basics -- 
+	including appropriate headers , 
+	bullet points, keywords (esp. at the beginning), 
+	proper linking (both internal and external), 
+	images (with alt texts) 
+	proper meta title and description, 
+	short sentences and paras short
+		-- in short making your content skimmable
+        FIND OUT ABOUT FREE KEYWORD TOOLS
